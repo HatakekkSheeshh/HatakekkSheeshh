@@ -1,6 +1,6 @@
 ### Hi, I’m Hieu Nguyen!
 
-- 👀 I’m interested in footbal
+- 👀 I’m interested in football
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m studying at HCMUT
 
