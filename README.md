@@ -1,9 +1,15 @@
 ### Hi, I’m Hieu Nguyen!
 
+English version
 - 👀 I’m interested in football
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m studying at HCMUT
-
+  
+Deutsche Version
+- 👀 Ich interessiere mich für Fußball.
+- 🌱 Ich studiere derzeit Informatik.
+- 🎓 Ich studiere an der HCMUT.
+- Ich kann ein bisschen Deutsch sprechen.
 <!---
 HatakekkSheeshh/HatakekkSheeshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
