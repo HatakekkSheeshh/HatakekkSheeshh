@@ -108,7 +108,7 @@ Deutsche Version
 <!-- Featured Projects -->
 # 🌟 Featured Projects
 
-### 🤖 AI & Machine Learning
+### 🤖 Deep Learning 
 <div align="center">
 
 | Project | Description | Tech Stack |
