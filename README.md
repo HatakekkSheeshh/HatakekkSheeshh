@@ -88,9 +88,7 @@ Deutsche Version
 <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-### An experienced Python developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HatakekkSheeshh&label=Profile views&color=0e75b6&style=flat" alt="HatakekkSheeshh" /> </p>
+### An experienced developer
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HatakekkSheeshh" alt="HatakekkSheeshh" /></a> </p>
 
