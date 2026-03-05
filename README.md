@@ -23,6 +23,15 @@ Deutsche Version
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/HatakekkSheeshh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HatakekkSheeshh" height="30" width="40" /></a>
+<a href="mailto:nguyenquochieujff7@gmail.com">
+<img src="https://img.shields.io/badge/Email-nguyenquochieujff7%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/hi%E1%BB%87u-nguy%E1%BB%85n-bb1886322/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://hatakekksheeshh.online" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=google-chrome"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
