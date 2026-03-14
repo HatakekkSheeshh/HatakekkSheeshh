@@ -5,7 +5,6 @@
 <br><br>
 </div>
 
-English version
 - 👀 I’m interested in football
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m studying at HCMUT
