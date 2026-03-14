@@ -10,15 +10,6 @@ English version
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m studying at HCMUT
 - 📫 How to reach me **nguyenquochieujff7@gmail.com**
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1snjPYUnvuCnoLxZBF9BA8PuIbatkNAOv/view?usp=sharing](https://drive.google.com/file/d/1snjPYUnvuCnoLxZBF9BA8PuIbatkNAOv/view?usp=sharing)**
-
-
-Deutsche Version
-- 👀 Ich interessiere mich für Fußball.
-- 🌱 Ich studiere derzeit Informatik.
-- 🎓 Ich studiere an der HCMUT.
-- 📫 Kontakt **nguyenquochieujff7@gmail.com**
-- 📄 Meine Erfahrungen **[https://drive.google.com/file/d/1snjPYUnvuCnoLxZBF9BA8PuIbatkNAOv/view?usp=sharing](https://drive.google.com/file/d/1snjPYUnvuCnoLxZBF9BA8PuIbatkNAOv/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
