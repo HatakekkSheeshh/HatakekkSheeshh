@@ -23,7 +23,7 @@
 </a>
 </p>
 
-<!-- <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">🐍 Programming Languages</h4>
 <p align="left">
@@ -69,15 +69,15 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> 
-</p> -->
+</p> 
 
 ### An experienced developer
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HatakekkSheeshh" alt="HatakekkSheeshh" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HatakekkSheeshh" alt="HatakekkSheeshh" /></a> </p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HatakekkSheeshh&show_icons=true&locale=en&layout=compact" alt="HatakekkSheeshh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HatakekkSheeshh&show_icons=true&locale=en" alt="HatakekkSheeshh" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HatakekkSheeshh&show_icons=true&locale=en" alt="HatakekkSheeshh" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HatakekkSheeshh&" alt="HatakekkSheeshh" /></p> 
 
